@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<source_list version="1.0" creator="Global Mapper - http://www.globalmapper.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.globalmapper.com/OSL/1/0" xsi:schemaLocation="http://www.globalmapper.com/OSL/1/0 http://www.globalmapper.com/OSL/1/0/gmc.xsd">
+<source type="TMS">
+  <name>Isom PD Map</name>
+  <RequesterPays>1</RequesterPays>
+  <FileExt>jpg</FileExt>
+  <LatLonBounds>-82.045898437,37.439974052,-81.9140625,37.509725843</LatLonBounds>
+  <NumZoomLevels>21</NumZoomLevels>
+  <TileSize>256</TileSize>
+  <BaseURL><![CDATA[file:///C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING%2C%20LLC/Desktop/Testing/Isom%20PD%20Map%20Tiles/]]></BaseURL>
+  <NativeProj>EPSG:3857</NativeProj>
+</source>
+</source_list>

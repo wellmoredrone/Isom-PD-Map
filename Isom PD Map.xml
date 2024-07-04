@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<tilemap tilemapservice="http://www.osgeo.org/services/tilemapservice.xml" version="1.0.0">
+<title>Isom PD Map</title>
+<abstract></abstract>
+<srs>EPSG:900913</srs>
+<vsrs></vsrs>
+<boundingbox maxx="-9118631.7263083" maxy="4510396.1650516" minx="-9133307.6357390" miny="4500612.2254311">
+</boundingbox>
+<origin x="-20037508.3427890" y="-20037508.3427890"></origin>
+<tileformat extension="jpg" height="256" mime-type="image/jpeg" width="256">
+</tileformat>
+<tilesets profile="global-mercator">
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Isom%20PD%20Map%20Tiles/13" order="13" units-per-pixel="19.1092571"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Isom%20PD%20Map%20Tiles/14" order="14" units-per-pixel="9.5546285"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Isom%20PD%20Map%20Tiles/15" order="15" units-per-pixel="4.7773143"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Isom%20PD%20Map%20Tiles/16" order="16" units-per-pixel="2.3886571"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Isom%20PD%20Map%20Tiles/17" order="17" units-per-pixel="1.1943286"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Isom%20PD%20Map%20Tiles/18" order="18" units-per-pixel="0.5971643"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Isom%20PD%20Map%20Tiles/19" order="19" units-per-pixel="0.2985821"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Isom%20PD%20Map%20Tiles/20" order="20" units-per-pixel="0.1492911"></tileset>
+</tilesets>
+</tilemap>
